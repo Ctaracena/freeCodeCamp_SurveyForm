@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+body {
+    margin: 0 auto;
+    background-color: #C7A26B;
+    font-family: 'Lato', sans-serif;
+}
+#title, #description {
+    text-align: center;
+}
+
+#survey-form {
+    width: 80%;
+    margin: auto;
+    background-color: #A3CB8F;
+    border-radius: 5px;
+    padding: 10px;
+}
+#name-label,
+#email-label,
+#number-label {
+    font-weight: bold;
+    padding: 5px;
+}
+#name,
+#email {
+    width: 90%;
+}
+#number {
+    width: 14%;
+}
+#sports {
+    margin-bottom: 10px;
+}
